@@ -8,7 +8,7 @@ I design and build web applications, admin workflows, and supporting infrastruct
 
 | Project | What I'm building | Status |
 | --- | --- | --- |
-| **SISKAS / Sinara** | A school platform focused on learning and academic services, with a web application intended to grow across platforms. | In development · private source |
+| **Sinara** | A school platform focused on learning and academic services, with a web application intended to grow across platforms. | In development · private source |
 | **Hermes One** | A personal AI assistant prototype for activity context, memory, notifications, and a local dashboard. | Personal prototype · private source |
 | **ACCESSLY** | A cross-platform access management project spanning a web dashboard, browser extension, and Android client. | Previous project · private source |
 | **School web systems** | School sites and content management tools for publishing news, facilities, staff profiles, and other school information. | Private source |
